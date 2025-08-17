@@ -271,6 +271,9 @@
     width: 100%;
     font-size: 14px;
   }
+  .form input{
+    padding: 10px 10px;
+  }
   .information_style {
     flex-direction: column;
     text-align: center;
